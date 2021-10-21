@@ -26,7 +26,6 @@ C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\obj\Debug\net5.0\staticwebas
 C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\obj\Debug\net5.0\staticwebassets\JWTExamaple.StaticWebAssets.xml
 C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\obj\Debug\net5.0\scopedcss\bundle\JWTExamaple.styles.css
 C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\obj\Debug\net5.0\JWTExamaple.RazorTargetAssemblyInfo.cache
-C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\obj\Debug\net5.0\JWTExamaple.csproj.CopyComplete
 C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\obj\Debug\net5.0\JWTExamaple.dll
 C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\obj\Debug\net5.0\ref\JWTExamaple.dll
 C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\obj\Debug\net5.0\JWTExamaple.pdb
@@ -34,3 +33,4 @@ C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\obj\Debug\net5.0\JWTExamaple
 C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jesus\source\repos\JWTExamaple\JWTExamaple\bin\Debug\net5.0\Newtonsoft.Json.dll
